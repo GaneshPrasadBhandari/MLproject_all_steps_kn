@@ -1,1 +1,1 @@
-## End to end machine learning project with all steps and pipeline.
+## End to end to end machine learning project with all steps and pipeline for real world projects.
